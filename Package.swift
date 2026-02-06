@@ -17,12 +17,12 @@ let package = Package(
     .binaryTarget(
       name: "CryptoSwift",
       url: "https://github.com/bangnguyengrab/CryptoSwift/releases/download/1.7.1+LibEvolution/CryptoSwift.xcframework.zip",
-      checksum: "de34c8de5e5d7957a925984bb8562678712354920ffc39cf4db017b76c28df4f"
+      checksum: "bdc15a5034890ffeddc26de1d5bb09241f31e5d35bbcd6ba5fb034f8863a7ebc"
     ),
     .binaryTarget(
       name: "SwiftyRSA",
       url: "https://github.com/bangnguyengrab/SwiftyRSA/releases/download/1.8.0+libEvolution/SwiftyRSA.xcframework.zip",
-      checksum: "3e3cef720b7cbcf576d8d4c73a45eb156dd7f7922b19fa8c90e33743c02ffb61"
+      checksum: "c04e79ea111143d03f2def2a5b81764007aba7bc92e079cc90249c3bffe6bf90"
     ),
   ]
 )
